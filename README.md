@@ -24,9 +24,4 @@ Welcome to **Travel Vista**, a collaborative web development project designed to
 
 ---
 
-## Setup Instructions 🧑‍💻
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/avnirastogi14/Project_2024_WebDevelopment.git
-   cd TravelVista
