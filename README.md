@@ -1,4 +1,4 @@
-# Travel Vista 🌍
+# Travel Vista(GROUP PROJECT) 🌍
 
 Welcome to **Travel Vista**, a collaborative web development project designed to redefine how users book travel and build a travel community. With an intuitive interface, secure booking capabilities, and a platform for user reviews, Travel Vista provides a seamless travel planning experience.
 
